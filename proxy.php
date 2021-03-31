@@ -46,6 +46,7 @@ define('CSAJAX_DEBUG', false);
  */
 $valid_requests = array(
     // 'example.com'
+    "http://ava-grq.jpl.nasa.gov:9200/"
 );
 
 /**
